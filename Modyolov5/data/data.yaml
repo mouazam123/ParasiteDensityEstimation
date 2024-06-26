@@ -1,0 +1,5 @@
+names: [Inf,GB]
+nc: 2
+
+train: /home/ilaoualy/yolov5/data/train_data/images/train
+val: /home/ilaoualy/yolov5/data/train_data/images/val
